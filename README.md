@@ -1,13 +1,13 @@
-# [Proyecto de Log In]
+# Proyecto de Log In
 
-**Materia:** [Programacion Web]
-**Docente:** [Martinez Nieto Adelina]
+**Materia:** Programacion Web
+**Docente:** Martinez Nieto Adelina
 **Fecha:** 7 de Julio 2026
 
 ### Integrantes del equipo
 * **Integrantes del Equipo:**
-  * [Castellanos Rios Carlos Eduardo]
-  * [Esperanza Chavez Edwin Alexis]
+  * Castellanos Rios Carlos Eduardo
+  * Esperanza Chavez Edwin Alexis
 
 ### Descripción breve
 
