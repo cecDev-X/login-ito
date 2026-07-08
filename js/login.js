@@ -1,14 +1,12 @@
-// Seleccionan los campos de entrada
 const formulario = document.querySelector('.form');
 const emailInput = document.querySelector('input[type="text"]');
 const passwordInput = document.querySelector('input[type="password"]');
 
-// credenciales quemadas 
+
 const USUARIO_CORRECTO = "admin@gmail.com";
 const CONTRASENA_CORRECTA = "123456789";
 const NOMBRE_MOSTRAR = "Usuario Admin";
 
-// Evento de envío (submit) del formulario
 formulario.addEventListener('submit', function (event) {
     event.preventDefault();
 
